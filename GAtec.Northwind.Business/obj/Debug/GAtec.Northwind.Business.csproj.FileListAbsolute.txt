@@ -1,0 +1,8 @@
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.Business\bin\Debug\GAtec.Northwind.Business.dll
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.Business\bin\Debug\GAtec.Northwind.Business.pdb
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.Business\bin\Debug\GAtec.Northwind.Domain.dll
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.Business\bin\Debug\GAtec.Northwind.Domain.pdb
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.Business\obj\Debug\GAtec.Northwind.Business.csprojResolveAssemblyReference.cache
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.Business\obj\Debug\GAtec.Northwind.Business.csproj.CoreCompileInputs.cache
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.Business\obj\Debug\GAtec.Northwind.Business.dll
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.Business\obj\Debug\GAtec.Northwind.Business.pdb

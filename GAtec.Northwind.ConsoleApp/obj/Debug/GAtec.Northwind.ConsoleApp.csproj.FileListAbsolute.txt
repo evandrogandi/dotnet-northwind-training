@@ -1,0 +1,15 @@
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\GAtec.Northwind.ConsoleApp.exe.config
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\GAtec.Northwind.ConsoleApp.exe
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\GAtec.Northwind.ConsoleApp.pdb
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\GAtec.Northwind.Business.dll
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\GAtec.Northwind.Data.dll
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\GAtec.Northwind.Domain.dll
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\GAtec.Northwind.Business.pdb
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\GAtec.Northwind.Data.pdb
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\GAtec.Northwind.Domain.pdb
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\obj\Debug\GAtec.Northwind.ConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\obj\Debug\GAtec.Northwind.ConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\obj\Debug\GAtec.Northwind.ConsoleApp.exe
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\obj\Debug\GAtec.Northwind.ConsoleApp.pdb
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\Gatec.Northwind.Util.dll
+c:\users\avell 1711 iron\source\repos\Gatec.Northwind\GAtec.Northwind.ConsoleApp\bin\Debug\Gatec.Northwind.Util.pdb
